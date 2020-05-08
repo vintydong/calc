@@ -1,0 +1,8 @@
+body{
+    text-align: center;
+}
+#container{
+    display: inline-block;
+    width: 630px;
+    text-align: center;
+}
